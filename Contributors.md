@@ -2713,6 +2713,7 @@ yejashi
 - [Maneka Singh](https://github.com/manekasingh05)
 - [Mike G.]
 - [Hardik]
+- [Gavin Hill](https://github.com/GavinHillDev)
 - [Gabe Myers] (https://github.com/gabethemyers)
 - [Riley]
 - [Naman Sharma](https://github.com/nmnsharma007)
